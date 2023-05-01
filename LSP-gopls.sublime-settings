@@ -249,7 +249,7 @@
     // Deprecated: this setting is deprecated and will be removed in a future
     // version of gopls (https://go.dev/issue/55332)
     //
-    "gopls.experimentalWatchedFileDelay": "0s",
+    // "gopls.experimentalWatchedFileDelay": "0s",
 
     // (experimental) hints specify inlay hints that users want to see. A full list of hints
     // that gopls uses can be found in
